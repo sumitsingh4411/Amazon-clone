@@ -9,7 +9,7 @@ This is a code repository for the corresponding Amazon clone .
 
 In this repository, we're going to build a fully functional Amazon application using reactjs. 
 
-While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,firebae authincation API fetching with axios and many more.
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,firebase authincation API fetching with axios and many more.
 
 
 # Getting Started with Create React App
